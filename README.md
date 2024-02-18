@@ -12,6 +12,6 @@ My readme.md profile will appear here, but you'll have to wait a little longer. 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=lightttt)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=itsantoniolpzz&icon=2&color=5)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=antoniiolpzzz&label=Profile%20Views&color=5&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
